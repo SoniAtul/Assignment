@@ -1,1 +1,11 @@
-T
+{
+    "Title": "New Blog Post Title",
+    "Content": "Content of the new blog post goes here."
+}
+For POST API
+
+{
+    "Title": "Updated Blog Post Title",
+    "Content": "Updated content of the blog post."
+}
+For Update API
